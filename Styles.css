@@ -1,0 +1,181 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+.header{
+    background-color: #2341FF;
+    color: white;
+    align-items: center;
+    text-align: center;
+    padding: 15px 0px;
+}
+
+.header P{
+    font-size: 12px;
+}
+
+.header a{
+    text-decoration: none;
+    color: #EBF9F9;
+}
+
+.navbar-light{
+    --bs-bg-opacity:0;
+}
+.form-inline{
+    margin-bottom: 0px;
+}
+
+.form-control{
+    padding: 10px 120px;
+    border-radius: 50px;
+    border: none;
+    font-size: 12px;
+    color: #BDC5C5;
+}
+
+
+.subheading{
+    background-color: #EBF9F9;
+    margin-bottom: 30px;
+    padding-left: 80px;
+}
+
+.subheading a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    font-size: 10px;
+}
+.image-container{
+    text-align: center;
+}
+
+.logo-image{
+    max-width: 70%;
+}
+
+.productImage{
+    width: 250px;
+    cursor: zoom-in;
+}
+.thumbnailImages{
+    max-width: 10%;
+    border: 1px solid #BDC5C5;
+    border-radius: 8px;
+    margin: 20px;
+    cursor: pointer;
+}
+
+
+
+.big-img-box img{
+    min-width: 80%;
+    border: 1px solid #BDC5C5;
+}
+
+.product-name{
+    font-size: 26px;
+    font-weight: bold;
+    max-width: 100%;
+}
+.product-discription{
+    color: #BDC5C5;
+    font-size: 16px;
+}
+
+.dropdown-form{
+    margin-bottom: 30px;
+}
+
+.dropdown-form select{
+    border: 1px solid #BDC5C5;
+    padding: 5px 30px;
+    border-radius: 10px;
+    font-size: 12px;
+    color: #BDC5C5;
+}
+
+.dropdown-form option{
+    color: red
+}
+
+  #size{
+    margin-right: 40px;
+}
+
+
+.show-pricing{
+    max-width: 20%;
+    border: 1px solid #BDC5C5;
+    border-radius: 18px;
+    width: 30%;
+    margin: 40px 0px;
+    padding: 20px;
+}
+
+
+.show-pricing .doller{
+    font-size: 10px;
+    color: #BDC5C5;;
+}
+
+.pricing-amount{
+    line-height: 0%;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.pricing-amount p{
+    font-weight: bold;
+    margin-left: 10px
+}
+
+.pricing-btn {
+    text-align: center;
+    margin-top: 20px;
+}
+.pricing-btn button{
+    border: none;
+    font-weight: bold;
+    width: 30px;
+    height: 30px;
+}
+.btn-secondary{
+    background-color: rgb(202, 203, 211);
+    padding: 8px 120px;
+    border: none;
+    border-radius: 30px;
+}
+
+.footer-color{
+    background-color: #EBF9F9;
+    margin-bottom: 20px;
+}
+
+.lastpara{
+    margin-left: 30px;
+}
+
+.footer{
+    padding-left: 80px;
+       
+}
+
+.footer-boldtext{
+    font-weight: bold;
+    font-size: 20px;
+    margin: 20px;
+    line-height: 3px;
+}
+
+.product-status{
+    font-weight: bold;
+    font-size: 10px;
+    line-height: 3px;
+    margin: 20px;
+}
+
+
